@@ -10,3 +10,4 @@ ii) ui: View classes along with their corresponding ViewModel.
 
 iii) utils: Utility classes.
 
+![image](https://user-images.githubusercontent.com/39657409/77831844-94288b80-7157-11ea-9637-775c51097a5c.png)
